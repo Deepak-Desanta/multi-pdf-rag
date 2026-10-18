@@ -1,0 +1,19 @@
+
+# Python virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Generated Chroma database
+chroma/
+
+# Environment variables and secrets
+.env
+
+# Local backup files
+*_backup.py
+
+# Personal PDF documents
+documents/
